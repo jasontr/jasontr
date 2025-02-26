@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasontr
-- 👀 I’m interested in `MlOps`, `DataOps`, `Web3`
-- 🌱 I’m currently learning `Data governance`, `dbt`, `Data Lineage`, `Technical Analysis`
+- 👀 I’m interested in `AI agent`, `MlOps`, `DataOps`, `Web3`
+- 🌱 I’m currently learning `AI agent`, `Data Lineage`, `Technical Analysis`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
